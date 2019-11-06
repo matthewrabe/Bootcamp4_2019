@@ -19,6 +19,7 @@ export default ({data, selectedBuilding}) => {
 	if (selectedBuilding === 0) {
 		return (
 			<div className="selectedBuilding">
+
 				<p>
 					{' '}
 					<i>Click on a name to view more information</i>

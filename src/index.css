@@ -92,6 +92,7 @@ td:hover {
 	color: #3498bb;
 }
 button {
+
 	background: #008CBA;
 	color: #fff;
 	padding: 0.6rem 1rem;
@@ -103,5 +104,6 @@ button {
 	outline: none;
 }
 button:hover {
+
 	background: #0692C0;
 }
